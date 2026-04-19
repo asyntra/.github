@@ -1,12 +1,10 @@
 # Asyntra
 
-![Open Source at Mysalesbook](https://github.com/mysalesbook/.github/blob/main/IMG_0059.webp)
-
 ---
 
 ## About Asyntra
 
-**MySalesbook** is a SaaS platform that automates revenue cycle and billing workflows for healthcare providers and billing teams. We help organizations reduce claim errors, accelerate collections, and improve patient billing experiences by combining automation, analytics, and secure integrations.
+**AS Consulting Services** is a SaaS Company that automates revenue cycle and billing workflows for healthcare providers and billing teams. We help organizations reduce claim errors, accelerate collections, and improve patient billing experiences by combining automation, analytics, and secure integrations.
 
 ## 🔧 Key Features
 
